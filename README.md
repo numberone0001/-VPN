@@ -63,6 +63,6 @@ This policy is effective as of 2020-08-05
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to leave me messages at [App contact information](https://github.com/numberone0001/CatKingVPN/issues).
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to leave me messages at [Issuses Report Area](https://github.com/numberone0001/CatKingVPN/issues).
 
 
